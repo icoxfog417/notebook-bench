@@ -1,21 +1,12 @@
-name: ds
+name: nbbench
 
 channels:
+  - pytorch
   - conda-forge
 
 dependencies:
-  - ipython
-  - ipykernel
   - python
-  - numpy
-  - matplotlib
-  - altair
-  - scikit-learn
-  - pandas
-  - pytorch
-  - tensorflow
-  - jinja2
-  - pre-commit
+  - pytorch=1.12.0
   - pip
   - pip:
     - -r requirements.txt
