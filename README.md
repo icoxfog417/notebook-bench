@@ -11,7 +11,7 @@ Notebooks to compare the performance of platform.
 
 | Benchmark | Task         | Colaboratory | Studio Lab | Kaggle Notebook |
 |:----------|:-------------|:-------------|:-----------|:----------------|
-| NLP       | Text Classification by fine tuned Transformer | Notebook link | Notebook link | Notebook link | Notebook link |
+| NLP       | Text Classification by fine tuned Transformer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/icoxfog417/notebook-bench/blob/main/notebooks/nlp.ipynb) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/notebook-bench/blob/main/notebooks/nlp.ipynb) | Notebook link |
 
 ## Prerequisite
 
