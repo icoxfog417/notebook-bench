@@ -11,7 +11,7 @@ Notebooks to compare the performance of platform.
 
 | Benchmark | Task         | Colaboratory | Studio Lab | Kaggle Notebook |
 |:----------|:-------------|:-------------|:-----------|:----------------|
-| NLP       | Text Classification by fine tuned Transformer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/icoxfog417/notebook-bench/blob/main/notebooks/nlp.ipynb) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/notebook-bench/blob/main/notebooks/nlp.ipynb) | Notebook link |
+| NLP       | Fine tune Transformer model ([cl-tohoku/bert-base-japanese-whole-word-masking](https://huggingface.co/cl-tohoku/bert-base-japanese-whole-word-masking)) by [Amazon Review dataset](https://huggingface.co/datasets/amazon_reviews_multi) to classify the sentiment. Training epoch is 3. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/icoxfog417/notebook-bench/blob/main/notebooks/results/nlp-colaboratory-standard.ipynb) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/notebook-bench/blob/main/notebooks/nlp.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/icoxfog417/notebook-bench/blob/main/notebooks/results/nlp-kaggle-T4x2.ipynb) |
 
 ## Prerequisite
 
